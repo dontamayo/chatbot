@@ -1,7 +1,10 @@
 # Galvan the bot!
 
-### ChatBot = “ Galvan“
-January 21, 2018
+
+### My Nmae is Galvan!
+### start chatting with me on fb message!  https://www.facebook.com/galvanthebot/
+
+#### Q2 project
 ![](media/galvan.png)
 
 
