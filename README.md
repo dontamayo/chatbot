@@ -8,15 +8,22 @@
 ![](media/galvan.png)
 
 
+__________________________________
+### Who is  Galvan?
+* it’s a chatbot that automates response from anyone that needs immediate response! from any topics you think of.
 
-What is a chatbot?
-it’s automated response from anyone that try to message you.
-from any topics you think of.
+* Galvan is a software that automates things that we do.
 
-Bot is a software that automates things that we do.
+* Galvan is short for Galvanize, ask anything about Galvanize.
+
+* Galvan is friendly bot!
+
+
+
+
 ----------------------------------------
 ### Why this is necessary?
-*	people spend 80% of time in just 3 apps a da
+*	people spend 80% of time in just 3 apps a day
 *	9 out of 10 top used apps were made by Google and Facebook.
 ----------------------------------------
 ### What my bots can do?
@@ -32,4 +39,4 @@ Bot is a software that automates things that we do.
 
 6.	Do virtually anything else. Except for time travel. They just can't do it. Yet!
 
-7.	In this course we're making a simple bot that can answer questions on your behalf and have a simple dialog with people.
+7.	In this project we're making a simple bot that can answer questions on your behalf and have a simple dialog with people.
