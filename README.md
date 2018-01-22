@@ -2,7 +2,8 @@
 
 ### ChatBot = “ Galvan“
 January 21, 2018
-![galvan](media/galvan.png/media/galvan.png)
+![](media/galvan.png)
+
 
 
 What is a chatbot?
