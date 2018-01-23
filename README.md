@@ -16,7 +16,7 @@ __________________________________
 
 * Galvan is short for Galvanize, ask anything about Galvanize.
 
-* Galvan is friendly bot!
+* Galvan is a friendly bot!
 
 
 
